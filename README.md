@@ -18,28 +18,6 @@ Physicochemical profiling characterized ACLVWE_24230 as an 80-amino-acid, basic 
 
 ---
 
-## Table of Contents
-
-- [Abstract](#abstract)
-- [Workflow Architecture](#workflow-architecture)
-- [Target Sequence Information](#target-sequence-information)
-- [Methodology & Tools](#methodology--tools)
-- [Key Findings & Results](#key-findings--results)
-  - [1. Physicochemical Characterization](#1-physicochemical-characterization)
-  - [2. Subcellular Localization](#2-subcellular-localization)
-  - [3. Homology & Phylogenetic Analysis](#3-homology--phylogenetic-analysis)
-  - [4. Conserved Domain & Functional Annotation](#4-conserved-domain--functional-annotation)
-  - [5. Secondary Structure Analysis](#5-secondary-structure-analysis)
-  - [6. 3D Homology Modeling & Quality Validation](#6-3d-homology-modeling--quality-validation)
-  - [7. Pocket & Binding Cavity Analysis](#7-pocket--binding-cavity-analysis)
-  - [8. Protein–Protein Docking with MqsR Toxin](#8-proteinprotein-docking-with-mqsr-toxin)
-- [Visual Gallery](#visual-gallery)
-- [Repository Organization](#repository-organization)
-- [Reproduction & Inspection Guide](#reproduction--inspection-guide)
-- [References & Data Sources](#references--data-sources)
-
----
-
 ## Workflow Architecture
 
 The computational pipeline integrates sequence retrieval, physicochemical computation, evolutionary analysis, structural modeling, stereochemical validation, active pocket mapping, and macromolecular docking:

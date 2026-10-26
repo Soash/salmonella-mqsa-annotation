@@ -62,12 +62,6 @@ flowchart TD
     J --> K["Active Site & Pocket Prediction<br/><b>CASTpFold</b>"]
     J --> L["Macromolecular Docking<br/><b>ClusPro 2.0</b><br/>(Receptor: ACLVWE_24230, Ligand: MqsR)"]
     L --> M["Structural Alignment & RMSD<br/><b>PyMOL 3.1</b><br/>(Reference: PDB 3HI2)"]
-
-    style A fill:#e1f5fe,stroke:#0288d1,stroke-width:2px
-    style E fill:#fff3e0,stroke:#f57c00,stroke-width:2px
-    style I fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px
-    style L fill:#e8f5e9,stroke:#388e3c,stroke-width:2px
-    style M fill:#e0f2f1,stroke:#00796b,stroke-width:2px
 ```
 
 ---

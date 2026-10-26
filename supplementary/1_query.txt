@@ -1,0 +1,30 @@
+https://www.ncbi.nlm.nih.gov/datasets/taxonomy/90370/names/
+https://en.wikipedia.org/wiki/Typhoid_fever
+Gram-negative bacteria
+
+"hypothetical protein"[Title] AND "Salmonella enterica subsp. enterica serovar Typhi"[porgn:__txid90370]
+ 
+https://www.ncbi.nlm.nih.gov/protein/XYZ87145.1?report=fasta
+
+https://www.ncbi.nlm.nih.gov/Structure/cdd/wrpsb.cgi
+
+https://cello.life.nctu.edu.tw/
+
+https://www.ncbi.nlm.nih.gov/tools/cobalt/cobalt.cgi
+
+http://bioinf.cs.ucl.ac.uk//psipred/&uuid=304e263e-a503-11f0-94c0-00163e100466
+
+gb|XYZ87145.1|
+ref|WP_275014364.1|
+ref|WP_267840445.1|
+ref|WP_441012576.1|
+gb|MFL4410489.1|
+ref|WP_220423641.1|
+ref|WP_267236469.1|
+gb|EIU2314802.1|
+ref|WP_211924752.1|
+ref|WP_241270420.1|
+ref|WP_301703314.1|
+
+
+

@@ -1,13 +1,12 @@
 # *In Silico* Structural and Functional Annotation of Hypothetical Protein ACLVWE_24230 from *Salmonella enterica* Serovar Typhi Plasmid: An MqsA-Family Antitoxin and HTH Transcriptional Regulator
 
-**Md Abu Sadat Soash**  
-Department of Genetic Engineering and Biotechnology  
-Shahjalal University of Science and Technology, Sylhet, Bangladesh  
+**Author(s):** Md Abu Sadat Soash  
+*Department of Genetic Engineering and Biotechnology*<br>
+*Shahjalal University of Science and Technology, Sylhet, Bangladesh*
 
 [![GitHub Repo](https://img.shields.io/badge/Repository-salmonella--mqsa--annotation-blue?logo=github)](https://github.com/Soash/salmonella-mqsa-annotation)
 [![Organism](https://img.shields.io/badge/Organism-Salmonella%20enterica%20serovar%20Typhi-teal)](https://www.ncbi.nlm.nih.gov/datasets/taxonomy/90370/)
 [![Accession](https://img.shields.io/badge/GenBank-XYZ87145.1-orange)](https://www.ncbi.nlm.nih.gov/protein/XYZ87145.1)
-[![Domain](https://img.shields.io/badge/Pfam-MqsA__antitoxin%20(pfam15731)-purple)](https://www.ebi.ac.uk/interpro/entry/pfam/PF15731/)
 
 ---
 
